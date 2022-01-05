@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Warkop Project</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="sidebar_logout">Logout</string>
+    <string name="nav_header_name">Erlangga AH</string>
+    <string name="nav_header_email">erlangga.adidarma@gmail.com</string>
+
+    <string-array name="kategori">
+        <item>Product</item>
+        <item>Bahan</item>
+    </string-array>
+
+    <string-array name="kategori_menu">
+        <item>Makanan</item>
+        <item>Minuman</item>
+    </string-array>
+</resources>
